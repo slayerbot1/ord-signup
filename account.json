@@ -38,5 +38,13 @@
     "total_pengeluaran": 0,
     "status": true,
     "account_create": "2024-03-30 04:20"
+  },
+  "tesasel486@wousi.com°Kontoak°6289621484600": {
+    "password": "Jancok",
+    "saldo": 0,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-03-30 04:33"
   }
 }
