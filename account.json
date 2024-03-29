@@ -30,5 +30,13 @@
     "total_pengeluaran": 0,
     "status": true,
     "account_create": "2024-03-29 23:22"
+  },
+  "lizza4299@gmail.com°Hanzz official°6289621484600": {
+    "password": "Hanzz9999",
+    "saldo": 0,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-03-30 04:20"
   }
 }
