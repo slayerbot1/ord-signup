@@ -2,8 +2,8 @@
   "total_trx": 0,
   "total_trx_hari_ini": 0,
   "total_trx_tahun_ini": 0,
-  "total_uang_masuk": 11424,
-  "total_refID": 3,
+  "total_uang_masuk": 12302,
+  "total_refID": 4,
   "data": {
     "T5°089621484600°2°6289621484600": {
       "harga": 5712,
@@ -16,6 +16,12 @@
       "status": "PROSES",
       "refund": false,
       "tanggal": "2024-03-30 08:41"
+    },
+    "TD100°62895630140093°4°62895630140094": {
+      "harga": 878,
+      "status": "PROSES",
+      "refund": false,
+      "tanggal": "2024-03-30 10:25"
     }
   }
 }
