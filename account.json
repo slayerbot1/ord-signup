@@ -38,5 +38,13 @@
     "total_pengeluaran": 0,
     "status": true,
     "account_create": "2024-03-30 04:20"
+  },
+  "iyansmc12@gmail.com°Ryanar°6285183881634": {
+    "password": "Sumedang12",
+    "saldo": 0,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-03-30 08:46"
   }
 }
