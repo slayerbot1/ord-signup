@@ -70,5 +70,16 @@
     "total_pengeluaran": 0,
     "status": true,
     "account_create": "2024-06-11 17:50"
+  },
+  "zarukaayagami@gmail.com°Hanzzaja°6289667118989": {
+    "password": "Hanzz73089",
+    "saldo": 0,
+    "silver": true,
+    "gold": false,
+    "diamond": false,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-06-19 20:14"
   }
 }
