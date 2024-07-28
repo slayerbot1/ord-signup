@@ -2,8 +2,8 @@
   "total_trx": 0,
   "total_trx_hari_ini": 0,
   "total_trx_tahun_ini": 0,
-  "total_uang_masuk": 44244,
-  "total_refID": 12,
+  "total_uang_masuk": 70044,
+  "total_refID": 13,
   "data": {
     "T5°089621484600°2°6289621484600": {
       "harga": 5712,
@@ -70,6 +70,12 @@
       "status": "PROSES",
       "refund": false,
       "tanggal": "2024-07-28 16:30"
+    },
+    "DMLWP°1655709165 (18012)°13°628385847490": {
+      "harga": 25800,
+      "status": "PROSES",
+      "refund": false,
+      "tanggal": "2024-07-28 16:44"
     }
   }
 }
