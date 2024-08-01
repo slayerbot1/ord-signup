@@ -97,5 +97,13 @@
     "total_pengeluaran": 77400,
     "status": true,
     "account_create": "2024-07-28 16:21"
+  },
+  "shafadin554@gmail.com°jszee°6285779268537": {
+    "password": "jsze918",
+    "saldo": 0,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-08-01 18:26"
   }
 }
