@@ -105,5 +105,13 @@
     "total_pengeluaran": 0,
     "status": false,
     "account_create": "2024-08-01 18:26"
+  },
+  "Yuki@gmail.com°Yukii°6283132747944": {
+    "password": "Yuki123456",
+    "saldo": 0,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-08-02 17:54"
   }
 }
